@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://grant.pauker.org/sitemap.xml
+Sitemap: https://grantpauker.github.io/sitemap.xml

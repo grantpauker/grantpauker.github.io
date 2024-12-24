@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://grant.pauker.org/</loc>
+        <loc>https://grantpauker.github.io/</loc>
     </url>
     <url>
-        <loc>https://grant.pauker.org/projects/</loc>
+        <loc>https://grantpauker.github.io/projects/</loc>
     </url>
     <url>
-        <loc>https://grant.pauker.org/research/</loc>
+        <loc>https://grantpauker.github.io/research/</loc>
     </url>
 </urlset>
